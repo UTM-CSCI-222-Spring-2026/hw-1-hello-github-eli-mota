@@ -1,7 +1,7 @@
 /**
  * @file hello.cpp
- * @author your name (you@domain.com)
- * @brief 
+ * @author Joseph Mota (emota@ut.utm.edu)
+ * @brief  // making a hello world program
  */
 #include <iostream>
 
@@ -9,5 +9,6 @@ using namespace std;
 
 int main()
 {
+  cout << "Hello, world!" << endl;
     // YOUR CODE HERE
 }
